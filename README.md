@@ -1,16 +1,6 @@
-# My Tweets
+# MyTweets
 
-**Final C Project Report**
-
-**Tweet Analysis on Elon Musk Dataset**
-
-**(Final Draft)**
-
-**CPEN 220** 
-
-**Programming for Engineering Solutions**
-
-*Malek Wahidi*
+**Tweet Analysis CLI Program on Elon Musk Twitter Dataset from Kaggle**
 
 The final draft of this project features a fully functional C program, MyTweets, which can perform all sorts of analyses on Elon Musk tweets from a Kaggle dataset. The project is neatly organized into multiple folders according to standard conventions for C projects. The ‘src’ folder contains the main program, along with a couple of c files that contain relevant functions for loading data and performing tweet analysis. The ‘headers’ folder contains a header file that includes function and struct declarations, and macro definitions, to be shared with the source files. The ‘resources’ folder contains program resources such as the Kaggle dataset for Elon Musk tweets and the VADER dictionary used for tweet sentiment analysis.
 
